@@ -1,2 +1,3 @@
-101;Arroz;8;5.5
-102;Feijão;7;8.0
+101;Notebook;4;3500.0
+102;Carregador Notebook;4;150.0
+103;Pasta;7;60.0
