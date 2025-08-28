@@ -2,6 +2,7 @@ Integrantes:
 Felipe Luza
 Léo Zoldan
 Arthur Marcolin
+Vlademir Capelin Junior
 
 Link do repositório:
 https://github.com/FelipeLuza/Projeto-Estoque

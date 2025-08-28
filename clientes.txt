@@ -1,3 +1,6 @@
 201;Felipe Luza;3500.0
 202;Arthur Marcolin;150.0
 203;Leo Zoldan;180.0
+204;Gabrieli Luza;7999.999999999999
+205;João;595.6
+206;Augusto;297.8
